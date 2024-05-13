@@ -1,6 +1,10 @@
 # SkeletonScreen
 Skeleton Screen on iOS and iPadOS
 
+### Demo
+
+https://github.com/huabin/SkeletonScreen/assets/535675/24fdc14c-2dcf-4f18-9f9f-cbc176cc09ce
+
 ### How to use
 
 - Open `Xcode->File->Add Package Dependencies`
