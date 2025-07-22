@@ -1,5 +1,5 @@
 // SkeletonScreen
-// Bin Hua <hi@binhua.org>
+// Bin Hua <https://tourcoder.com>
 
 import SwiftUI
 
