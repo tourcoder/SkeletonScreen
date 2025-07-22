@@ -9,7 +9,7 @@ https://github.com/huabin/SkeletonScreen/assets/535675/24fdc14c-2dcf-4f18-9f9f-c
 
 - Open `Xcode->File->Add Package Dependencies`
 
-- Add Package via `https://github.com/huabin/SkeletonScreen.git`
+- Add Package via `https://github.com/tourcoder/SkeletonScreen.git`
 
 - Import && Coding
 
